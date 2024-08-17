@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Other Tollbooths",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Toll Meghna Bridge" }, "geometry": { "type": "Point", "coordinates": [ 90.6098746, 23.6169645 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Muktarpur Bridge" }, "geometry": { "type": "Point", "coordinates": [ 90.5127608, 23.5776106 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Padma Bridge" }, "geometry": { "type": "Point", "coordinates": [ 90.268381, 23.4851913 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Padma Bridge" }, "geometry": { "type": "Point", "coordinates": [ 90.2531889, 23.4070836 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Dhaleshwari" }, "geometry": { "type": "Point", "coordinates": [ 90.3501436, 23.6493487 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.5523518, 23.8381962 ] } }
+]
+}

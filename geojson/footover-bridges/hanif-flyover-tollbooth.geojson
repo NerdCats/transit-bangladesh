@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Hanif Flyover tollbooth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4137624, 23.7229938 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4134928, 23.7229005 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4432342, 23.7061725 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4350932, 23.7044663 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4289072, 23.7151842 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4270893, 23.7165295 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.4402485, 23.7107264 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll" }, "geometry": { "type": "Point", "coordinates": [ 90.441325, 23.707033 ] } }
+]
+}

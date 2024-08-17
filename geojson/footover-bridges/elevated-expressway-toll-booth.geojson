@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Elevated Expressway Toll Booth",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.3940739, 23.7627251 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.3987413, 23.7738133 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.397938, 23.7740011 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.4183685, 23.83948 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.4010793, 23.7969774 ] } },
+{ "type": "Feature", "properties": { "Name": "Toll Expressway" }, "geometry": { "type": "Point", "coordinates": [ 90.4176293, 23.8197619 ] } }
+]
+}
