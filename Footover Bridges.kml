@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FOB</name>
+	<gx:CascadingStyle kml:id="__managed_style_0309BF4D72301834015A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_04C3A6505630182F656F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.9995</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_1101B54B8D30182F656E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_0F9B8760B43018340159">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="icon-1899-0288D1-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0288D1-nodesc0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0288D1-nodesc1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0288D1-nodesc2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-nodesc-highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-highlight0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-highlight1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-highlight2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder id="0C1F9163F93017E7A5ED">
+		<name>Footover Bridges</name>
+		<Placemark id="09D80A1BD83018000953">
+			<name>Kachukhet</name>
+			<LookAt>
+				<longitude>90.38793760543575</longitude>
+				<latitude>23.79397242745618</latitude>
+				<altitude>8.984735327101831</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1134.667998724472</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38793760543575,23.79397242745618,8.984735327101831</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DE1E9404F30180117D2">
+			<name>Police Line School (Mirpur 14)</name>
+			<LookAt>
+				<longitude>90.38399092320633</longitude>
+				<latitude>23.79959558617481</latitude>
+				<altitude>10.57034516712079</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1784.28280030028</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38399092320633,23.79959558617481,10.57034516712079</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03B4A0D6CC301802EF71">
+			<name>Mirpur 1</name>
+			<LookAt>
+				<longitude>90.35334005177913</longitude>
+				<latitude>23.7984467895608</latitude>
+				<altitude>13.42882230268093</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1944.44965375762</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.35334005177913,23.7984467895608,13.42882230268093</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09EAC83E0E30180386E1">
+			<name>Tolarbag</name>
+			<LookAt>
+				<longitude>90.35401250005594</longitude>
+				<latitude>23.78713839518611</latitude>
+				<altitude>9.083613448678546</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1234.901937626128</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.35401250005594,23.78713839518611,9.083613448678546</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B1329A076301803D590">
+			<name>Mirpur Bangla College</name>
+			<LookAt>
+				<longitude>90.35359496515545</longitude>
+				<latitude>23.78457531772787</latitude>
+				<altitude>9.203235391534603</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1234.782248503034</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.35359496515545,23.78457531772787,9.203235391534603</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04BFBE8A6B301806E03D">
+			<name>Shishumela</name>
+			<LookAt>
+				<longitude>90.36717573714699</longitude>
+				<latitude>23.77334658764195</latitude>
+				<altitude>10.33428922269679</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1948.631634365302</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.36717573714699,23.77334658764195,10.33428922269679</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FCEB3D6C230180A68D2">
+			<name>BUET</name>
+			<LookAt>
+				<longitude>90.39188568856413</longitude>
+				<latitude>23.72572742675679</latitude>
+				<altitude>11.52161470443447</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>745.2796476052754</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39188568856413,23.72572742675679,11.52161470443447</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E82C56BDD30180CD42A">
+			<name>Kawla</name>
+			<LookAt>
+				<longitude>90.41233325070949</longitude>
+				<latitude>23.84592953984719</latitude>
+				<altitude>9.460649548939919</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1307.302453719021</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41233325070949,23.84592953984719,9.460649548939919</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0493B36DB030180DAF83">
+			<name>Jashimuddin Road</name>
+			<LookAt>
+				<longitude>90.40148275452347</longitude>
+				<latitude>23.85901518320725</latitude>
+				<altitude>9.855755325246882</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1052.525566779077</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40148275452347,23.85901518320725,9.855755325246882</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05A83C5BE13018138C29">
+			<name>Mugda</name>
+			<LookAt>
+				<longitude>90.42850345823295</longitude>
+				<latitude>23.7324935680074</latitude>
+				<altitude>10.4716268074463</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1047.964122514677</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42850345823295,23.7324935680074,10.4716268074463</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="08D66770B9301814BC0F">
+			<name>Tikatuli</name>
+			<LookAt>
+				<longitude>90.42029541046269</longitude>
+				<latitude>23.71937862584991</latitude>
+				<altitude>12.13363578106193</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>191.8669835784931</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42029541046269,23.71937862584991,12.13363578106192</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A1E09D24F301819DDE3">
+			<name>Shaonir Akhra</name>
+			<LookAt>
+				<longitude>90.44500941966164</longitude>
+				<latitude>23.7052989428031</latitude>
+				<altitude>9.060064605968876</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>2110.937687533151</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.44500941966164,23.7052989428031,9.060064605968876</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E7A9D192130181A4B5E">
+			<name>Dania</name>
+			<LookAt>
+				<longitude>90.44863563529886</longitude>
+				<latitude>23.70352458403589</latitude>
+				<altitude>10.0568579488944</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>2109.940865339886</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.44863563529886,23.70352458403589,10.0568579488944</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EFBEAC98930181BC401">
+			<name>Jatrabari-Postogola</name>
+			<LookAt>
+				<longitude>90.4357548100986</longitude>
+				<latitude>23.69986882813599</latitude>
+				<altitude>9.894087417721831</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>490.5079060923891</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4357548100986,23.69986882813599,9.894087417721831</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="076F87BFD130181D09EA">
+			<name>Matuail</name>
+			<LookAt>
+				<longitude>90.46618179948948</longitude>
+				<latitude>23.69510110306533</latitude>
+				<altitude>8.640565658299588</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1666.413396887365</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.46618179948948,23.69510110306533,8.640565658299588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="001F6FEE5830181E007E">
+			<name>Rayerbag</name>
+			<LookAt>
+				<longitude>90.45741911575102</longitude>
+				<latitude>23.69936379897377</latitude>
+				<altitude>10.74078908081948</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1492.059812993102</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.45741911575102,23.69936379897377,10.74078908081948</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BA0AC846630181E9EF9">
+			<name>Chittagong Road 1</name>
+			<LookAt>
+				<longitude>90.50905464328052</longitude>
+				<latitude>23.69763169535402</latitude>
+				<altitude>10.9995449473518</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1464.535301228607</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.50905464328052,23.69763169535402,10.9995449473518</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="058C3E323430181F0098">
+			<name>Chittagong Road 2</name>
+			<LookAt>
+				<longitude>90.50975026929707</longitude>
+				<latitude>23.69795711110831</latitude>
+				<altitude>9.677636968035763</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1465.857166075293</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.50975026929707,23.69795711110831,9.677636968035763</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="064AE1DF0630181FE050">
+			<name>Dhk-Ctg Highway 1</name>
+			<LookAt>
+				<longitude>90.49544424357541</longitude>
+				<latitude>23.69549389116954</latitude>
+				<altitude>9.058320313371356</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1834.980183194275</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.49544424357541,23.69549389116954,9.058320313371356</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E1BB9D9183018205DA3">
+			<name>Dhk-Ctg Highway 2</name>
+			<LookAt>
+				<longitude>90.48993341198451</longitude>
+				<latitude>23.69487720878417</latitude>
+				<altitude>9.751567574128748</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1834.286894842226</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.48993341198451,23.69487720878417,9.751567574128748</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01AD32055A301820F5F5">
+			<name>Signboard</name>
+			<LookAt>
+				<longitude>90.48066030669071</longitude>
+				<latitude>23.69378368622535</latitude>
+				<altitude>8.379929170918244</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1881.974527393759</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.48066030669071,23.69378368622534,8.379929170918244</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0499420EFC3018214B7B">
+			<name>Dhk-Ctg Highway 3</name>
+			<LookAt>
+				<longitude>90.47501399429943</longitude>
+				<latitude>23.69308255326629</latitude>
+				<altitude>8.883795969441818</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1881.47055367328</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.47501399429943,23.69308255326629,8.883795969441818</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04806AFEA73018267301">
+			<name>Tantibazar</name>
+			<LookAt>
+				<longitude>90.40735226356762</longitude>
+				<latitude>23.71442951731505</latitude>
+				<altitude>9.492603634036749</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>910.2385624406452</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40735226356762,23.71442951731505,9.492603634036749</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CC0C390193018292E25">
+			<name>Bahadur Shah Park</name>
+			<LookAt>
+				<longitude>90.41188964842171</longitude>
+				<latitude>23.71002467932902</latitude>
+				<altitude>10.51228188839771</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>864.0724002214847</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41188964842171,23.71002467932902,10.51228188839771</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0070BE35AF3018299BE5">
+			<name>Sadarghat</name>
+			<LookAt>
+				<longitude>90.41068960202969</longitude>
+				<latitude>23.70744124670543</latitude>
+				<altitude>11.99558297413119</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>711.3921894885425</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41068960202969,23.70744124670543,11.99558297413119</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="073D8D974A30182CDF9B">
+			<name>Kajla</name>
+			<LookAt>
+				<longitude>90.43911655397875</longitude>
+				<latitude>23.71094668787052</latitude>
+				<altitude>9.216192914467305</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1616.135435831384</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.43911655397875,23.71094668787052,9.216192914467305</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0663AB82423018340141">
+			<name>Suritola</name>
+			<LookAt>
+				<longitude>90.40985048814899</longitude>
+				<latitude>23.71980200281743</latitude>
+				<altitude>10.61667430094358</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>1279.36436087155</range>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:fovy>30.00004176</gx:fovy>
+			</LookAt>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40985048814899,23.71980200281743,10.61667430094358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06139CF1133017E8791A">
+			<name>Chairman Bari FOB (CASE)</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40000129999999,23.7887788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="014637ADC13017E87949">
+			<name>NatunBazar FOB ()</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4235942,23.7973262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E234855723017E8794C">
+			<name>Nadda FOB (CASE)</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42134950000001,23.8093234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04FC933A743017E8794D">
+			<name>Nam Garden Quarte (CASE)</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3768857,23.8044582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D6B4B9B2E3017E8794F">
+			<name>Darussalam FOB (CASE)</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3541697,23.7802952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FFFE1BA553017E87950">
+			<name>Point 6</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.35650560000001,23.7791508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="032AABF61F3017E87952">
+			<name>Point 7</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3610197,23.7780312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="077070C1A93017E87954">
+			<name>Point 8</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.36585279999998,23.7746604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BAF38F7713017E87955">
+			<name>Point 9</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3689608,23.7688105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="041E3EFC4D3017E87956">
+			<name>Point 10</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.37325530000001,23.75968200000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02509343B83017E87958">
+			<name>Point 11</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3748406,23.7570511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C3AD359993017E87959">
+			<name>Point 12</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.376633,23.7541007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B8BB4CC753017E8795A">
+			<name>Point 13</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.37743930000001,23.7525552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0699D94BF13017E8795B">
+			<name>Point 14</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3798269,23.74849529999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00A73F8A883017E8795C">
+			<name>Point 15</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38276300000001,23.7417133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EF57481443017E8795D">
+			<name>Point 16</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38345099999999,23.7388078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0951CAA0903017E8795E">
+			<name>Point 17</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3953686,23.7381387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="064C680C243017E8795F">
+			<name>Point 18</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39681299999999,23.7381203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="037157B1E03017E87960">
+			<name>Point 19</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4007325,23.7347926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="011575F9CD3017E87961">
+			<name>Point 20</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39827819999999,23.77762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="118764373A3017E87961">
+			<name>Point 21</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3992276,23.7587052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="003CEB51423017E87962">
+			<name>Point 22</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42097939999999,23.7389062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04485457303017E87963">
+			<name>Point 23</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39461679999999,23.7460097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="044730508A3017E87964">
+			<name>Point 24</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39566259999999,23.7428827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03DB3C6A303017E87965">
+			<name>Point 25</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3848729,23.7330584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1756C331BD3017E87965">
+			<name>Point 26</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3870107,23.724634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00D2B43CD03017E87966">
+			<name>Point 27</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41178299999999,23.7301325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D7158CDE33017E87968">
+			<name>Point 28</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4217472,23.727041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01E7D0C5B73017E87969">
+			<name>Point 29</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42122550000002,23.730994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0183450E7A3017E8796A">
+			<name>Point 30</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4076634,23.7375555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04BC5904C53017E8796B">
+			<name>Point 31</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40353820000001,23.7336908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E2A2134873017E8796C">
+			<name>Point 32</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40374209999999,23.7335668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="15BA28FDEB3017E8796C">
+			<name>Point 33</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3922649,23.7525504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05C82011073017E8796D">
+			<name>Point 34</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39101029999999,23.7556577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05C53ECC423017E8796E">
+			<name>Point 35</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.390542,23.7568838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1BFB53A9A23017E8796E">
+			<name>Point 36</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.39014770000001,23.7582378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="084D20A9333017E8796F">
+			<name>Point 37</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3896675,23.7595421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E12F80E1D3017E87970">
+			<name>Point 38</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38909390000001,23.7632219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="18E2AC37E73017E87970">
+			<name>Point 39</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.38959949999999,23.7705881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C601065373017E87971">
+			<name>Point 40</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3917459,23.7755596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03C700F5B73017E87972">
+			<name>Point 41</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3739798,23.7944704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="062B7AEC933017E87973">
+			<name>Point 42</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.37288320000002,23.7971016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="148193417C3017E87973">
+			<name>Point 43</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.36861690000002,23.8070943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06D1F70EFA3017E87974">
+			<name>Point 44</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40047920000001,23.8706955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CABF429623017E87975">
+			<name>Point 45</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4003196,23.868299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="091BF82D563017E87976">
+			<name>Point 46</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.400074,23.864684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="15785BBFDA3017E87976">
+			<name>Point 47</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40819809999999,23.8509715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06B172921C3017E87977">
+			<name>Point 48</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41876039999998,23.8357446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="052249E7E53017E87978">
+			<name>Point 49</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41978719999999,23.8297519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AA67381553017E87979">
+			<name>Point 50</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4181085,23.8209566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AB07D00C53017E8797A">
+			<name>Point 51</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.41354920000001,23.81801859999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1B9CED823C3017E8797A">
+			<name>Point 52</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4105656,23.8168222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0188B0F7673017E8797C">
+			<name>Point 53</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.40042750000001,23.79171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B5ACE417D3017E8797E">
+			<name>Point 54</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4008446,23.7937627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09F72205283017E87980">
+			<name>Point 55</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.37243320000002,23.7445897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A5CEDEC203017E87982">
+			<name>Point 56</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.3683693,23.7506363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F3ACFA6A13017E87983">
+			<name>Point 57</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4273998,23.7398704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="186310FB5F3017E87983">
+			<name>Point 58</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42664550000001,23.7407723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="22F9C2B1C73017E87983">
+			<name>Point 60</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4153743,23.7543013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05FDB811DF3017E87984">
+			<name>Point 61</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42152950000001,23.7650839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1FBF63AB2D3017E87984">
+			<name>Point 62</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4257187,23.7778935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2DE2A94EEA3017E87984">
+			<name>Point 63</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42561190000002,23.785975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C660E17043017E87985">
+			<name>Point 64</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42398870000001,23.795151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1C105E39693017E87985">
+			<name>Point 65</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.4212203,23.8121361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2C8385FE363017E87985">
+			<name>Point 65</name>
+			<styleUrl>#icon-1899-0288D1-nodesc1</styleUrl>
+			<Point>
+				<coordinates>90.42280990000002,23.7360386,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="05056161B33017E7A5F5">
+		<name>Hanif Flyover tollbooth</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.4137624,23.7229938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.4134928,23.7229005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.44323419999999,23.7061725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.43509319999998,23.7044663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.42890719999998,23.7151842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.42708930000002,23.7165295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.4402485,23.7107264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc0</styleUrl>
+			<Point>
+				<coordinates>90.44132500000001,23.707033,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="03A610A8A13017E7A5F6">
+		<name>Other Tollbooths</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Toll Meghna Bridge</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.6098746,23.61696450000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll Muktarpur Bridge</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.5127608,23.5776106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll Padma Bridge</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.26838100000001,23.4851913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll Padma Bridge</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.2531889,23.4070836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll Dhaleshwari</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.35014359999998,23.6493487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Toll</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc2</styleUrl>
+			<Point>
+				<coordinates>90.5523518,23.8381962,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="11E46855263017E7A5F5">
+		<name>Elevated Expressway Toll Booth</name>
+		<visibility>0</visibility>
+		<Placemark id="02864467C1301826C9E2">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.39407390000001,23.7627251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="092B6D60BB301826CA15">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.3987413,23.7738133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CF6137A99301826CA16">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.397938,23.7740011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0807723155301826CA17">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.4183685,23.83947999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00532C51AA301826CA18">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.40107930000002,23.7969774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="10D7592D4D301826CA18">
+			<name>Toll Expressway</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>90.4176293,23.8197619,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
