@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rail Stations</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Rail Stations</name>
+      <Placemark>
+        <name>Kamalapur Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4262904,23.7320296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gendaria Rail Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4290103,23.7014901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tejgaon Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.3947995,23.7601812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banani Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4008477,23.7956417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cantonment Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4104991,23.8159655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4079833,23.8518708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keraniganj Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4155224,23.6488446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shyampur Station</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4428292,23.6843504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pagla Train Station</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4600755,23.6656858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fatulla Train Station</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4742293,23.6503488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chashara Station</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4983057,23.6243568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Narayanganj Station</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.5064897,23.6208344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arikhola Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.5542432,23.9285726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bangabandhu Hi-Tech City Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.2202147,24.0626727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dhirasram Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4154755,23.9589086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rajendrapur Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.449093,24.0971034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bhawal Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4344278,24.0486225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nolchata Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.511078,23.9327445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pubail Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4784068,23.9362976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Izzatpur Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4626479,24.1426524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joydebpur Junction</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4201756,23.9981421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaoraid Railway Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.5122709,24.3083055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mouchak Rail Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.2823186,24.0387187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Satkhamair Rail Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4900369,24.2340805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sreepur Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.479579,24.1992176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tongi Junction</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.4084504,23.89859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sikarpur-Nimtola Railway Station, Munshiganj</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.3266802,23.610671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mawa Railway Station, Munshiganj</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.2741385,23.503581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sreenagar Railway Station, Munshiganj</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.2913941,23.5375351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amirgonj Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.7724114,23.9357752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khanabari Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.7984449,23.9534382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hatuvanga Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.8240183,23.9695344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Methikanda Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.8669202,23.992871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrinidhi Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.9023916,24.0057867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doulatkandi Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.9488251,24.023006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Narsingdi Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.7211665,23.9309433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghorashal Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.633923,23.9378547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ghorashal Flag Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.6199384,23.9405303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jinarodi Railway Station, Narsingdi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.6742726,23.9304506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
