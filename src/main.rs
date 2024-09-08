@@ -1,4 +1,4 @@
-use clap::{arg, command, CommandFactory, Parser};
+use clap::{arg, command, CommandFactory, Parser, Subcommand};
 
 #[derive(Parser)]
 #[command(name = "transit-bd")]
@@ -9,6 +9,17 @@ use clap::{arg, command, CommandFactory, Parser};
 struct Cli {
     #[arg(short, long, action = clap::ArgAction::Count)]
     verbose: u8,
+    #[command(subcommand)]
+    command: Commands,
+}
+
+#[derive(Subcommand)]
+enum Commands {
+    #[command(about = "Map match a source GeoJSON file with road network of Bangladesh")]
+    MapMatch {
+        #[arg(short, long)]
+        source: String,
+    },
 }
 
 fn main() {
@@ -20,5 +31,11 @@ fn main() {
 
     if args.verbose > 0 {
         println!("Verbose mode enabled.");
+    }
+
+    match args.command {
+        Commands::MapMatch { source } => {
+            print!("Map match sub-command invoked with source {}", source)
+        }
     }
 }
