@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.checkOnSave": true,
+    "rust-analyzer.checkOnSave.command": "clippy", // Enable Clippy lints on save
+    "rust-analyzer.inlayHints.enable": true, // Show type hints inline
+    "editor.formatOnSave": true, // Format Rust code on save
+    "files.autoSave": "afterDelay", // Automatically saves files after a delay
+    "files.autoSaveDelay": 1000 // Set delay in milliseconds (1 second by default)
+}
