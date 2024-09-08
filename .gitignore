@@ -1,2 +1,7 @@
 *.duckdb
 
+
+
+# Added by cargo
+
+/target
