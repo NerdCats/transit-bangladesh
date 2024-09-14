@@ -1,7 +1,4 @@
 *.duckdb
-
-
-
+.idea
 # Added by cargo
-
 /target
